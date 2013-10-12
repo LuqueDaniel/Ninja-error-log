@@ -14,9 +14,6 @@ import os
 #sys imports
 import sys
 
-#platform imports
-import platform
-
 
 class msgNinjaErrorLog(QMessageBox):
 
@@ -86,7 +83,7 @@ class ninjaErrorLogDialog(QDialog):
 
 class ninjaErrorLog(plugin.Plugin):
     def initialize(self):
-        if platform.system() == 'win32':
+        if sys.platform() == 'win32':
             #Get executable path
             self.executable_path = os.path.abspath(os.path.dirname(sys.executable))
 

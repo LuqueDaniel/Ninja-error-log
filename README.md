@@ -9,7 +9,7 @@ Ninja-IDE version: **>= 2.3**
 Download.
 --------------
 - **Download and install from NINJA-IDE plugin manager.**
-- **[Download from NINJA-IDE site](http://ninja-ide.org/plugins/39/).**
+- **[Download from NINJA-IDE site]().**
 - **[Download version 0.1](https://github.com/LuqueDaniel/Ninja-error-log/releases/tag/0.1).**
 
 Screenshots.
