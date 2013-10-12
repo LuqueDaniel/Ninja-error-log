@@ -1,6 +1,6 @@
 Ninja-error-log
 ===============
-Ninja-Error-Log is a plugin for NINJA-IDE. Allows you to view and delete the file Ninja.exe.log (Only for Windows)
+Ninja-Error-Log is a plugin for NINJA-IDE. Allows you to view and delete the file Ninja.exe.log (Only for Windows).
 
 version: **0.1**<br />
 Licensed under: **GPLv3**<br />
@@ -9,7 +9,7 @@ Ninja-IDE version: **>= 2.3**
 Download.
 --------------
 - **Download and install from NINJA-IDE plugin manager.**
-- **[Download from NINJA-IDE site]().**
+- **[Download from NINJA-IDE site](http://ninja-ide.org/plugins/60/).**
 - **[Download version 0.1](https://github.com/LuqueDaniel/Ninja-error-log/releases/tag/0.1).**
 
 Screenshots.
