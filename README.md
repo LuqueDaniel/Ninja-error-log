@@ -18,4 +18,4 @@ Screenshots.
 
 Changelog.
 --------------
-See **[changelog.md](https://github.com/LuqueDaniel/Ninja-error-log/blob/master/changelog.md)** for more information
+See **[changelog.md](https://github.com/LuqueDaniel/Ninja-error-log/blob/master/changelog.md)** for more information.

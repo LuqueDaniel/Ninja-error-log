@@ -83,7 +83,7 @@ class ninjaErrorLogDialog(QDialog):
 
 class ninjaErrorLog(plugin.Plugin):
     def initialize(self):
-        if sys.platform() == 'win32':
+        if sys.platform == 'win32':
             #Get executable path
             self.executable_path = os.path.abspath(os.path.dirname(sys.executable))
 
