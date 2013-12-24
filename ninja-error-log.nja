@@ -1,0 +1,23 @@
+{
+  "mainFile": "",
+  "use-tabs": false,
+  "venv": "",
+  "relatedProjects": [],
+  "name": "Ninja-error-log",
+  "license": "GNU General Public License v3",
+  "url": "https://github.com/LuqueDaniel/Ninja-error-log",
+  "pythonPath": "python",
+  "preExecScript": "",
+  "additional_builtins": [],
+  "programParams": "",
+  "indentation": 4,
+  "PYTHONPATH": "",
+  "supported-extensions": [
+    ".py",
+    ".png",
+    ".md"
+  ],
+  "project-type": "NINJA-Plugin-Project",
+  "postExecScript": "",
+  "description": "Ninja-Error-Log is a plugin for NINJA-IDE. Allows you to view and delete the file Ninja.exe.log (Only for Windows)"
+}
