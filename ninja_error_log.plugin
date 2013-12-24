@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/LuqueDaniel/Ninja-error-log",
-  "version": "0.1",
+  "version": "0.2",
   "class": "ninjaErrorLog",
   "module": "ninja_error_log",
   "authors": "Daniel Luque",
